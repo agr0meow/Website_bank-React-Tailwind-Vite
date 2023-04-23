@@ -11,7 +11,7 @@
 <img src="https://i.ibb.co/PzCZdFC/image.png" width="800px">
 <img src="https://i.ibb.co/H7qM71r/image.png" width="800px">
 <img src="https://i.ibb.co/rFSXhP1/image.png" width="800px">
-<img src="https://i.ibb.co/c6jcjpm/image.png" width="800px">
+<img src="https://i.ibb.co/c6jcjpm/image.png" width="500px">
 
 
 ### Разработчик
